@@ -7,3 +7,11 @@ body {
     text-align: center;
     margin: 0;
 }
+
+a {
+    color: white;
+}
+
+#mission {
+    background-image: src('https://raw.githubusercontent.com/Codemonkey660/tea.cozy/refs/heads/main/img-mission-background.webp');
+}
