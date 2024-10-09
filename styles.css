@@ -8,10 +8,32 @@ body {
     margin: 0;
 }
 
-a {
-    color: white;
+header {
+    height: 50px;
+    width: 100%;
+    display: block;
+    background-color: black;
+    border-bottom: 1px solid seashell;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
 }
+
+nav {
+    float: right;
+    display: inline-block;
+    background-color: black;
+    margin: 0 auto;
+    
+}
+
 
 #mission {
     background-image: src('https://raw.githubusercontent.com/Codemonkey660/tea.cozy/refs/heads/main/img-mission-background.webp');
+}
+
+#image-tea-logo {
+    height: 50px;
+    float: left;
+    padding-left: 10px
 }
