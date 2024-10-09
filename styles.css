@@ -39,12 +39,12 @@ header img {
     height: 50px;
 }
 
-header nav li {
+header nav span {
     display: inline-block;
     margin: 0 10px;
 }
 
-header nav li a {
+header nav span a {
     color: seashell;
     text-decoration: underline;
 }
